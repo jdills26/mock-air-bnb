@@ -1,3 +1,3 @@
 # mock-air-bnb
 
-Project to create a website like airbnb
+Codeacademy project to create a website like airbnb
